@@ -1,0 +1,8 @@
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\bin\Debug\пакман.exe.config
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\bin\Debug\пакман.exe
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\bin\Debug\пакман.pdb
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\obj\Debug\пакман.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\obj\Debug\пакман.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\obj\Debug\пакман.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\obj\Debug\пакман.exe
+C:\Users\ПК\Desktop\консольные приложения\пакман\пакман\obj\Debug\пакман.pdb
